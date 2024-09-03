@@ -5,10 +5,15 @@ Small petri dish (35 mm) mount for 12 individual plates. Tested with Greiner 35 
 **Dimensions:**
 
 Plate width: 135.0 mm 
+
 Plate length: 177.0 mm
+
 Plate height: 7.5 mm
 
+
 Well depth: 5.0 mm
+
 Well diameter: 36.0 mm
+
 Between-well distance: 41 mm (center to center)
 
