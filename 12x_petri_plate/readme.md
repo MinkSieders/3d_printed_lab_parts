@@ -1,6 +1,6 @@
 **12X Petri Dish (35 mm) 3D Printable Mount**
 
-Small petri dish (35 mm) mount for 12 individual plates. Tested with Greiner 35 mm x 10 mm petri dishes (Greiner Bio-One, 627161) and Tritech 35 mm x 10 mm non-vented petri dishes (Tritech Research, T3501) 
+Small petri dish (35 mm) mount for 12 individual plates. Tested with Greiner 35 mm x 10 mm petri dishes (Greiner Bio-One, 627161) and Tritech 35 mm x 10 mm non-vented petri dishes (Tritech Research, T3501). Printed with standard PLA and an Ender 3 V3 SE 0.4 mm nozzle. 
 
 **Dimensions:**
 
