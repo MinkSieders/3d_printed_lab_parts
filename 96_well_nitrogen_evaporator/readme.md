@@ -1,4 +1,4 @@
-**96-Well Plate Nitrogen Evaporator 3D Printable**
+**96-Well Plate Nitrogen Evaporator | Sample Concentrator | 3D Printable**
 
 Print is provided in 2 seperately printed parts (.3mf), which can be glued and taped together to make up the final device. The prints can be used as is, but are also compatible with 20-200 uL pipette tips on the nitrogen nozzles. 
 
