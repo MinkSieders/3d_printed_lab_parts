@@ -2,6 +2,11 @@
 
 Print is provided in 2 seperately printed parts (.3mf), which can be glued and taped together to make up the final device. The prints can be used as is, but are also compatible with 20-200 uL pipette tips on the nitrogen nozzles. 
 
+https://github.com/MinkSieders/3d_printed_lab_parts/blob/main/96_well_nitrogen_evaporator/96_n2_evaporator.png
+
+https://github.com/MinkSieders/3d_printed_lab_parts/blob/main/96_well_nitrogen_evaporator/96_n2_evaporator_printed.png
+
+
 **Dimensions**
 
 Part 1 base: 85.48 mm (w) x 127.76 mm (l) x 10 mm (h)
