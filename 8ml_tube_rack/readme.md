@@ -1,8 +1,14 @@
 **8 mL Tube Racks | 3D Printable**
+Smaller and larger tube rack for 8 mL format plastic screwcap tubes. 
 
-![alt text](https://github.com/MinkSieders/3d_printed_lab_parts/blob/main/12x_petri_plate/12x_35mm.png)
+**15X (3 x 5) 8 mL Tube Racks | 3D Printable**
 
-![alt text](https://github.com/MinkSieders/3d_printed_lab_parts/blob/main/12x_petri_plate/12x_35mm_printed.png)
+![alt text](https://github.com/MinkSieders/3d_printed_lab_parts/blob/main/8ml_tube_rack/15x_8ml.png)
+
+
+**35X (7 x 5) 8 mL Tube Racks | 3D Printable**
+
+![alt text](https://github.com/MinkSieders/3d_printed_lab_parts/blob/main/8ml_tube_rack/35x_8ml.png)
 
 
 **Dimensions:**
